@@ -1,5 +1,5 @@
-# Atmospheric-Convection
-Repository for my analysis and modeling on atmospheric convection using the Lorenz model
+# Lorenz Equations and Atmospheric Convection
+This is a repository for my analysis and modeling on atmospheric convection using the Lorenz model
 
 For a quick overview on the project and analysis please see [my presentation](www.google.com) or for a more detailed explanation please refer to my [report](www.google.com) which explains all steps and conclusions made in this project.
 
